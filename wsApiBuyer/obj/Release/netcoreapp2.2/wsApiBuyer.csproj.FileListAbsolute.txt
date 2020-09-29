@@ -1,0 +1,14 @@
+C:\Users\eromerom\source\repos\wsApiBuyer\bin\Release\netcoreapp2.2\wsApiBuyer.deps.json
+C:\Users\eromerom\source\repos\wsApiBuyer\bin\Release\netcoreapp2.2\wsApiBuyer.runtimeconfig.json
+C:\Users\eromerom\source\repos\wsApiBuyer\bin\Release\netcoreapp2.2\wsApiBuyer.runtimeconfig.dev.json
+C:\Users\eromerom\source\repos\wsApiBuyer\bin\Release\netcoreapp2.2\wsApiBuyer.dll
+C:\Users\eromerom\source\repos\wsApiBuyer\bin\Release\netcoreapp2.2\wsApiBuyer.pdb
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.csprojAssemblyReference.cache
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.csproj.CoreCompileInputs.cache
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.RazorAssemblyInfo.cache
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.RazorAssemblyInfo.cs
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.AssemblyInfoInputs.cache
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.AssemblyInfo.cs
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.RazorTargetAssemblyInfo.cache
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.dll
+C:\Users\eromerom\source\repos\wsApiBuyer\obj\Release\netcoreapp2.2\wsApiBuyer.pdb
